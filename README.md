@@ -1,0 +1,2 @@
+# learnts
+Typescript Lang
